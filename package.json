@@ -1,0 +1,16 @@
+{
+  "name": "desafio-testing",
+  "version": "1.0.0",
+  "description": "first testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "author": "Santiago Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
